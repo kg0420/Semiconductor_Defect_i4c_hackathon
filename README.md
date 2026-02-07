@@ -170,7 +170,7 @@ This system can:
 
 ## 📎 Links
 
-* GitHub Repository: *Add your repo link here*
+* Dataset and Model Google Drive Link: *https://drive.google.com/drive/folders/1rD7i7deWpz-O9D_lzfznUqmVSDzkoK2S?usp=drive_link*
 ---
 
 ## 📜 License
