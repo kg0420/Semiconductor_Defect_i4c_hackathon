@@ -107,8 +107,9 @@ Dataset preprocessing includes label cleaning, stratified splitting, and wafer-t
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/i4c-wafer-defect-ai
-cd i4c-wafer-defect-ai
+git [clone https://github.com/your-username/i4c-wafer-defect-ai](https://github.com/kg0420/Semiconductor_Defect_i4c_hackathon)
+cd Semiconductor_Defect_i4c_hackathon
+
 pip install -r requirements.txt
 ```
 
