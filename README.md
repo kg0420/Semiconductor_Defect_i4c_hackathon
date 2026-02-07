@@ -94,13 +94,7 @@ Dataset preprocessing includes label cleaning, stratified splitting, and wafer-t
 
 ---
 
-## 🏗️ Project Structure
 
-```
-├── data/                  # Dataset folders (Train / Validation / Test)
-├── notebooks/             # Experiment notebooks
-└── README.md
-```
 
 ---
 
